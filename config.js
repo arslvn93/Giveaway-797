@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $400 Parent Escape to Somewhere Inn",
+    "navBrandLogoText": "Daniel Losier | Erba & Co",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:59.000Z",
+    "heroHeadline": "Win a <span class='highlight'>$400 Parent Escape</span> to Somewhere Inn!",
+    "heroSubheadline": "Busy parents, this is for you. Unplug. Sleep in. Slow down. Enter today for a $400 gift card to Somewhere Inn. One lucky winner takes it all.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/gkpsjmz1dhrmc0csr0k97gnpjw.jpg",
+    "promotionDates": "Enter Oct 11–27, 2025. Winner picked Oct 28, 2025.",
+    "endDate": "2025-10-28T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Parent Escape Giveaway — Somewhere Inn $400 Gift Card",
+    "successModalHeaderText": "You’re In the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Parent Escape Giveaway — $400 Somewhere Inn Gift Card</strong> is in. We draw on Oct 28, 2025 and will email the winner. Good luck!",
+    "successModalEmailPrompt": "Boost your odds: share your unique link for bonus entries and watch your email on Oct 28!"
   },
   "settings": {
     "confettiColors": [
@@ -25,152 +25,178 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "/.netlify/functions/admin-update",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": ""
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway — $400 Somewhere Inn Gift Card</strong> is in. We draw on Oct 28, 2025 and will email the winner. Good luck!",
+    "socialPromptText": "Boost your odds now. Share your unique link below. You get 1 extra entry for each friend who enters (up to 10 bonus entries)."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/1006gnj40nrma0csr0kv1c9n9c.jpg",
+        "alt": "Cozy inn room with soft bedding and warm light"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/thcg0px9whrme0csr0ktgcka80.jpg",
+        "alt": "Peaceful nature view near a boutique inn"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/a3jqd709fsrma0csr0m9c90k84.jpg",
+        "alt": "Parents relaxing by a fire pit at dusk"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/cwbehaba05rmc0csr0m87gk3wm.jpg",
+        "alt": "Calm lounge space for a quiet unplugged stay"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-gift",
+        "text": "$400 gift card to Somewhere Inn"
+      },
+      {
+        "icon": "fas fa-calendar-check",
+        "text": "Use it when it fits your schedule"
+      },
+      {
+        "icon": "fas fa-bed",
+        "text": "Perfect for a calm, cozy stay"
+      },
+      {
+        "icon": "fas fa-leaf",
+        "text": "Unplug in nature and breathe"
       },
       {
         "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
-      },
-      {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
-      },
-      {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
-      },
-      {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "text": "Great for parents who need a break"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
+    "name": "Somewhere Inn Parent Escape Gift Card",
     "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "description": "Picture this: no chores, no rush, no screens. Just a calm room, soft beds, and fresh air. Take a long walk. Read a book. Sip something warm by a fire. Use this $400 gift card to plan a sweet little escape. Go when it works for you. Focus on rest. Come back recharged.",
+    "limitedTimeOfferText": "Limited-Time Fall Giveaway — Ends Oct 27!",
+    "ctaButtonText": "I Want This Escape!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Quick Form",
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-list-check",
+        "title": "Answer 3–4 Short Questions",
+        "description": "Tell us a bit about travel and home goals. Simple and fast."
+      },
+      {
+        "icon": "fas fa-share-alt",
+        "title": "Share for Bonus Entries",
+        "description": "Get 1 extra entry for each friend who enters with your link (up to 10 bonus entries)."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "Winner Drawn Oct 28",
+        "description": "We email the winner and post on social. Good luck!"
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry process"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-user-friends",
+        "text": "Bonus entries for referrals"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Fair, random draw"
+      },
+      {
+        "icon": "fas fa-heart",
+        "text": "Made for busy parents"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "We respect your privacy"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "Please read the fine print before entering. Adults 18+ may enter. One entry per person. Bonus entries via valid referrals.",
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Adults 18+ may enter. One entry per person. Bonus entries come from valid referrals."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "How do bonus entries work?",
+        "a": "After you enter, you get a unique link. For each friend who signs up with your link, you get 1 extra entry. Limit 10 bonus entries."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "When does it end?",
+        "a": "Entries close Oct 27, 2025 at 11:59 PM. We draw on Oct 28, 2025."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "What is the prize exactly?",
+        "a": "A $400 gift card to Somewhere Inn. Use it toward your stay, subject to the inn’s terms."
+      },
+      {
+        "q": "Is this sponsored by Somewhere Inn?",
+        "a": "No. This giveaway is run by Daniel Losier | Erba & Co and is not sponsored by or linked to Somewhere Inn."
+      },
+      {
+        "q": "Will you spam me?",
+        "a": "No. We may send helpful local updates, travel ideas, and real estate tips. You can unsubscribe anytime."
+      },
+      {
+        "q": "Can I transfer the prize?",
+        "a": "It is a gift card. Usual gift card rules apply. Check the inn’s terms for details."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email so we can reach you if you win",
+      "Share your unique link with parent friends for bonus entries",
+      "Post your link in your group chat for more chances",
+      "Follow us on Instagram and Facebook for winner news",
+      "Set a reminder: Entries close Oct 27"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner",
+      "text": "We use a random draw tool. Each valid entry has the same chance to win. Referrals add bonus entries as stated. No tricks. No bias."
     },
     "importantNotice": {
       "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "text": "We email the winner on Oct 28, 2025. Check your inbox and spam. We will also post on our social pages. Your unique share link tracks your bonus entries."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-797.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-797.netlify.app&text=Win%20a%20%24400%20Parent%20Escape%20to%20Somewhere%20Inn!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details below for a chance to win this $400 Parent Escape!",
+    "entryCountText": "Over 150 parents have already entered. Don’t miss out!",
+    "socialSharePrompt": "Get more chances! Share your unique link after you enter. 1 friend = 1 extra entry (up to 10)."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +226,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +240,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +264,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/erbaandco/",
+      "instagram": "https://instagram.com/Danlosier.erba"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Daniel Losier",
+      "title": "Team Lead",
+      "phone": "416-418-6470",
+      "email": "Daniel@ErbaAndco.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is run by Daniel Losier | Erba & Co and is not sponsored by or affiliated with Somewhere Inn. Winner will be selected at random from all eligible entries received by Oct 27, 2025 at 11:59 PM. Must be 18+ to enter. One entry per person. Bonus entries are earned via valid referrals as stated.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "Brokerage Logo",
+    "organizerName": "Daniel Losier | Erba & Co",
+    "brokerageName": "",
+    "address": "",
+    "email": "Daniel@ErbaAndco.com",
+    "phone": "416-418-6470",
+    "copyrightOwner": "Erba & Co"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-797",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-797",
+    "netlifyUrl": "http://Giveaway-797.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Parent Escape Giveaway"
   }
 };
