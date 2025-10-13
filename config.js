@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $400 Parent Escape to Somewhere Inn",
     "navBrandLogoText": "Daniel Losier | Erba & Co",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://erbaandco.com/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$400 Parent Escape</span> to Somewhere Inn!",
@@ -27,17 +27,11 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/xg4Egm27GPiTwOuGMgad/webhook-trigger/Taa3fC50hUTOT4M7VoPq",
+    "facebookPixelId": "855212885643451",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway — $400 Somewhere Inn Gift Card</strong> is in. We draw on Oct 28, 2025 and will email the winner. Good luck!",
-    "socialPromptText": "Boost your odds now. Share your unique link below. You get 1 extra entry for each friend who enters (up to 10 bonus entries)."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -137,8 +131,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Adults 18+ may enter. One entry per person. Bonus entries via valid referrals.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -176,6 +168,8 @@ const config = {
       "Follow us on Instagram and Facebook for winner news",
       "Set a reminder: Entries close Oct 27"
     ],
+    "finePrintText": "Please read the fine print before entering. Adults 18+ may enter. One entry per person. Bonus entries via valid referrals.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner",
       "text": "We use a random draw tool. Each valid entry has the same chance to win. Referrals add bonus entries as stated. No tricks. No bias."
@@ -196,7 +190,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1760365918074_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -218,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1760365918074_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -240,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1760365918074_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -262,6 +256,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway — $400 Somewhere Inn Gift Card</strong> is in. We draw on Oct 28, 2025 and will email the winner. Good luck!",
+    "socialPromptText": "Boost your odds now. Share your unique link below. You get 1 extra entry for each friend who enters (up to 10 bonus entries)."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/erbaandco/",
@@ -269,20 +275,20 @@ const config = {
     },
     "agentContact": {
       "name": "Daniel Losier",
-      "title": "Team Lead",
-      "phone": "416-418-6470",
+      "title": "Real Estate Agent",
+      "phone": "(416) 418-6470",
       "email": "Daniel@ErbaAndco.com"
     },
     "footerDisclaimer": "This giveaway is run by Daniel Losier | Erba & Co and is not sponsored by or affiliated with Somewhere Inn. Winner will be selected at random from all eligible entries received by Oct 27, 2025 at 11:59 PM. Must be 18+ to enter. One entry per person. Bonus entries are earned via valid referrals as stated.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Brokerage Logo",
+    "organizerLogoUrl": "https://iili.io/KdVjVEP.webp",
+    "secondaryLogoUrl": "https://iili.io/KdVOP8F.webp",
+    "secondaryLogoAlt": "",
     "organizerName": "Daniel Losier | Erba & Co",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Real Broker",
+    "address": "130 King St W UNIT 1800B, Toronto, ON M5X 1E3, Canada",
     "email": "Daniel@ErbaAndco.com",
-    "phone": "416-418-6470",
-    "copyrightOwner": "Erba & Co"
+    "phone": "(416) 418-6470",
+    "copyrightOwner": "Daniel Losier"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-797",
