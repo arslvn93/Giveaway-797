@@ -5,10 +5,10 @@ const config = {
     "privacyPolicyLink": "https://erbaandco.com/privacy-policy/"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$400 Parent Escape</span> to Somewhere Inn!",
-    "heroSubheadline": "Busy parents, this is for you. Unplug. Sleep in. Slow down. Enter today for a $400 gift card to Somewhere Inn. One lucky winner takes it all.",
+    "heroHeadline": "Win a <span class='highlight'>$400 Parent Escape</span> to Somewhere Inn! - for Frankland Families!",
+    "heroSubheadline": "Busy Frankland Community School parents, this is for you. Unplug. Sleep in. Slow down. Enter today for a chance to win a $400 gift card to Somewhere Inn. One winner. One cozy escape.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/gkpsjmz1dhrmc0csr0k97gnpjw.jpg",
-    "promotionDates": "Enter Oct 11–27, 2025. Winner picked Oct 28, 2025.",
+    "promotionDates": "Enter Oct 16–27, 2025. Winner picked Oct 28, 2025.",
     "endDate": "2025-10-28T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
@@ -77,7 +77,7 @@ const config = {
     "name": "Somewhere Inn Parent Escape Gift Card",
     "value": "$400 Value",
     "description": "Picture this: no chores, no rush, no screens. Just a calm room, soft beds, and fresh air. Take a long walk. Read a book. Sip something warm by a fire. Use this $400 gift card to plan a sweet little escape. Go when it works for you. Focus on rest. Come back recharged.",
-    "limitedTimeOfferText": "Limited-Time Fall Giveaway — Ends Oct 27!",
+    "limitedTimeOfferText": "Limited-Time Community Giveaway - Ends Oct 27!",
     "ctaButtonText": "I Want This Escape!"
   },
   "howToEnter": {
@@ -134,11 +134,7 @@ const config = {
     "faq": [
       {
         "q": "Who can enter?",
-        "a": "Adults 18+ may enter. One entry per person. Bonus entries come from valid referrals."
-      },
-      {
-        "q": "How do bonus entries work?",
-        "a": "After you enter, you get a unique link. For each friend who signs up with your link, you get 1 extra entry. Limit 10 bonus entries."
+        "a": "Adults 18+ connected to Frankland Community School (parents/guardians, staff, and community friends). One entry per person. Bonus entries via valid referrals."
       },
       {
         "q": "When does it end?",
@@ -168,7 +164,7 @@ const config = {
       "Follow us on Instagram and Facebook for winner news",
       "Set a reminder: Entries close Oct 27"
     ],
-    "finePrintText": "Please read the fine print before entering. Adults 18+ may enter. One entry per person. Bonus entries via valid referrals.",
+    "finePrintText": "Please read the fine print before entering. Adults 18+ connected to Frankland Community School (parents/guardians, staff, and community friends). One entry per person. Bonus entries via valid referrals.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner",
@@ -190,7 +186,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760366442798_0",
+      "id": "q_auto_1760564686030_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -212,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760366442798_1",
+      "id": "q_auto_1760564686030_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -234,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760366442798_2",
+      "id": "q_auto_1760564686030_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
