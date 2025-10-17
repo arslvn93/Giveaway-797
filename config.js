@@ -77,7 +77,7 @@ const config = {
     "name": "Somewhere Inn Parent Escape Gift Card",
     "value": "$400 Value",
     "description": "Picture this: no chores, no rush, no screens. Just a calm room, soft beds, and fresh air. Take a long walk. Read a book. Sip something warm by a fire. Use this $400 gift card to plan a sweet little escape. Go when it works for you. Focus on rest. Come back recharged.",
-    "limitedTimeOfferText": "Limited-Time Community Giveaway - Ends Oct 27!",
+    "limitedTimeOfferText": "Limited-Time Community Giveaway - Ends Oct 28!",
     "ctaButtonText": "I Want This Escape!"
   },
   "howToEnter": {
@@ -186,7 +186,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760738216408_0",
+      "id": "q_auto_1760738225960_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760738216408_1",
+      "id": "q_auto_1760738225960_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760738216408_2",
+      "id": "q_auto_1760738225960_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
