@@ -9,7 +9,7 @@ const config = {
     "heroSubheadline": "Busy Frankland Community School parents, this is for you. Unplug. Sleep in. Slow down. Enter today for a chance to win a $400 gift card to Somewhere Inn. One winner. One cozy escape.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/gkpsjmz1dhrmc0csr0k97gnpjw.jpg",
     "promotionDates": "Enter Oct 16–28, 2025. Winner picked Oct 28, 2025.",
-    "endDate": "2025-10-29T03:59:00.000Z",
+    "endDate": "2025-10-29T00:00:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Parent Escape Giveaway — Somewhere Inn $400 Gift Card",
@@ -186,7 +186,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760738194300_0",
+      "id": "q_auto_1760738211859_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760738194300_1",
+      "id": "q_auto_1760738211859_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760738194300_2",
+      "id": "q_auto_1760738211859_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
